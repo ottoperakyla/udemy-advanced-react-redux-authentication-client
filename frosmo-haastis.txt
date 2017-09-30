@@ -1,0 +1,8 @@
+frosmo haastis 
+- testi emailissa
+- jos tarpeeksi hyvät pisteet, 90 min haastis ja live kooditestaus vielä paikalla
+- kysy kysymyksiä yrityksestä haastiksessa
+
+- 5 tiimiä, jokaisessa 5-10 devaajaa (projektivetäjä, competence manager?, lead developer)
+- 6kk koeaika jolloin päätetään tiimi missä haluaa tehdä töitä (jos haluaa liidiksi)?
+
